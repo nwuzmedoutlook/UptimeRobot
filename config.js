@@ -24,11 +24,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '资料共享',
+      text: '📚资料共享',
       url: 'http://nwuzmed.ysepan.com/'
     },
     {
-      text: '点我加群',
+      text: '👋点我加群',
       url: 'http://nwu-zmed.mikecrm.com/p1sRvbB'
     }
   ]
