@@ -2,19 +2,19 @@
 window.Config = {
 
   // 站点名
-  SiteName: '凛空の小屋 服务器状态监控',
+  SiteName: 'DAC导航 网站状态监控',
 
   // 站点链接
   SiteUrl: '/',
 
   // UptimeRobot Api Keys
-  // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
+  // 支持 Monitor-Specific 和 Read-Only 两种 Api Key
   ApiKeys: [
     'ur1634149-62b83908c10c2c9008462c3a',
   ],
 
   // 是否显示监测站点的链接
-  ShowLink: false,
+  ShowLink: true,
 
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
@@ -24,12 +24,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '晓空blog',
-      url: 'https://blog.moeworld.tech/'
+      text: 'DAC导航',
+      url: 'https://nwuzmed.ga/'
     },
     {
-      text: '关于',
-      url: 'http://about.rcraft.ml'
+      text: '反馈',
+      url: 'https://support.qq.com/products/313460?'
     }
   ]
 };
