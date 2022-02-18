@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'DAC导航 网站状态监控',
+  SiteName: 'DAC导航😎网站状态监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,12 +24,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'DAC导航',
-      url: 'https://nwuzmed.ga/'
+      text: '资料共享',
+      url: 'http://nwuzmed.ysepan.com/'
     },
     {
-      text: '反馈',
-      url: 'https://support.qq.com/products/313460?'
+      text: '点我加群',
+      url: 'http://nwu-zmed.mikecrm.com/p1sRvbB'
     }
   ]
 };
