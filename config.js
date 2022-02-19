@@ -29,7 +29,7 @@ window.Config = {
     },
     {
       text: '👋点我加群',
-      url: 'http://nwu-zmed.mikecrm.com/p1sRvbB'
+      url: 'https://jq.qq.com/?_wv=1027&k=liPvvBbz'
     }
   ]
 };
