@@ -23,7 +23,7 @@
 8. 绑定网站域名或开启Github pages！
 
 ## 鸣谢
-
-原项目作者 yb
-
-仓库地址 https://github.com/yb/uptime-status
+   
+|原创作者   | yb     |  https://github.com/yb/uptime-status  |
+|-----|----|----|
+|  二次美化 |  KJZH001   |   https://github.com/KJZH001/uptimeStatusRevise  |
