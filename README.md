@@ -10,7 +10,7 @@
 
 2. 上传至个人服务器或Github仓库（或直接在Github中Fork本仓库）
 
-3. 前往Uptimerobot的个人设置中获取您的apikey，为了安全起见，申请个人应用只读模式全部列表即可
+3. 前往[Uptimerobot](https://uptimerobot.com/)的个人设置中获取您的apikey，为了安全起见，申请个人应用只读模式全部列表即可
 
 4. 在config.js文件中将apikey更换为上一步骤中获取的属于你个人的apikey，修改header内容
 
