@@ -28,8 +28,8 @@ window.Config = {
       url: 'http://nwuzmed.ysepan.com/'
     },
     {
-      text: '👋点我加群',
-      url: 'https://jq.qq.com/?_wv=1027&k=liPvvBbz'
+      text: '👋加入组织',
+      url: 'https://qq-group.cf/'
     }
   ]
 };
