@@ -2,7 +2,7 @@
 
 一个二次开发的Uptime监控美化模板
 
-[效果预览](https://nwuzmed.ga/UptimeRobot/)
+[效果预览](https://csdn.cf/)
 
 ## 如何使用
 
